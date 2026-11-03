@@ -38,4 +38,4 @@ git --version
 echo "Setup done."
 
 
-** anytime you want to install rust and Node, run this command  source setup.sh**
+**anytime you want to install rust and Node, run this command  source setup.sh**
