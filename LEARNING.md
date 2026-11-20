@@ -10,6 +10,8 @@ All the environment check passed
 
 **PROGRESS LOG
 phase 0, 01 Dev Environment -----------done
+phase 0, 02 Git & Collaboration (revisit) -----------done; quiz 3/3
+Note: I explained the add → commit → push workflow, branches, merging, and `.gitignore`. Revisit the distinction between my fork (`origin`) and the original course repository (`upstream`). Stopped after completing the lesson and quiz.
 
 
 **Additional note
